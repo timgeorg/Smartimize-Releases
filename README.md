@@ -9,8 +9,9 @@ The source code is not public — **and this repository contains none.**
 > removed, disabled or renamed — not by a setting, not by the API.
 >
 > They **do not contain Smartimize source code.** They are an archive of *this*
-> repository: `README.md` and nothing else. GitHub labels them "source code" because
-> that is what the archive of a code repository normally is.
+> repository — three documentation files: this `README.md`, the proprietary
+> `LICENSE`, and `SOURCE-ARCHIVE-README.txt`. GitHub labels them "source code"
+> because that is what the archive of a code repository normally is.
 >
 > The application itself is distributed as compiled binaries only. There is no source
 > code in this repository, in the release assets, or in any public place.
