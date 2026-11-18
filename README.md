@@ -19,6 +19,8 @@ The source code is not public.
 | Linux x64 (standalone zip, glibc 2.39+) | `Smartimize-linux-x64-0.9.0.zip` |
 | | `SHA256SUMS.txt` |
 
+**Compiled binaries only.** No source code is published here or anywhere else.
+
 The binaries are **not code-signed** — SmartScreen and antivirus may warn on
 first run. Models are **not bundled**: the first launch downloads them.
 
