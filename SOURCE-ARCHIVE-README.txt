@@ -8,7 +8,8 @@ archives understands immediately what it is.
 WHAT YOU HAVE
 -------------
 An archive of the PUBLIC repository "timgeorg/Smartimize-Releases". Its entire
-content is documentation: this file, README.md, and a LICENSE notice.
+content is documentation: this file, README.md, and LICENSE (the proprietary
+licence notice for the binaries).
 
 WHAT YOU DO NOT HAVE
 --------------------
