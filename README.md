@@ -1,7 +1,22 @@
 # Smartimize Downloads
 
 This repository only hosts the Smartimize installers (Open Beta).
-The source code is not public.
+The source code is not public — **and this repository contains none.**
+
+> ### About the "Source code (zip)" / "Source code (tar.gz)" entries on the releases page
+>
+> GitHub adds those two archives to **every** release automatically. They cannot be
+> removed, disabled or renamed — not by a setting, not by the API.
+>
+> They **do not contain Smartimize source code.** They are an archive of *this*
+> repository: `README.md` and nothing else. GitHub labels them "source code" because
+> that is what the archive of a code repository normally is.
+>
+> The application itself is distributed as compiled binaries only. There is no source
+> code in this repository, in the release assets, or in any public place.
+>
+> `SOURCE-ARCHIVE-README.txt` in this repository repeats that inside the archive
+> itself, so nobody has to open the repo to understand what they downloaded.
 
 - Website: https://smartimize.de
 - Download: https://smartimize.de/en/download
