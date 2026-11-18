@@ -5,8 +5,22 @@ The source code is not public.
 
 - Website: https://smartimize.de
 - Download: https://smartimize.de/en/download
-- Deutsch: https://smartimize.de/download
+  Deutsch: https://smartimize.de/download
 - Feedback: smartimize@gmx.com
+
+## Current release
+
+**v0.9.0 (Open Beta)** — https://github.com/timgeorg/Smartimize-Releases/releases/tag/v0.9.0
+
+| Platform | Asset |
+|---|---|
+| Windows (installer, per-user, no admin) | `Smartimize-Setup-x64.exe` |
+| Windows (standalone zip) | `Smartimize-win-x64.zip` |
+| Linux x64 (standalone zip, glibc 2.39+) | `Smartimize-linux-x64-0.9.0.zip` |
+| | `SHA256SUMS.txt` |
+
+The binaries are **not code-signed** — SmartScreen and antivirus may warn on
+first run. Models are **not bundled**: the first launch downloads them.
 
 ## Licenses and access
 
